@@ -15,7 +15,7 @@ export async function POST(req, res) {
       <>
         <p>
           We wanted to acknowledge that we have received your recent message
-          with the subject line "{subject}".
+          with the subject line {subject}.
         </p>
         <p>
           Please note that this is a no-reply email address, and we will not be
